@@ -1,0 +1,9 @@
+﻿glue_database,rs_database,rs_schema,table_name,retention_year,filter_desc,spectrum_flg
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_DATA_SHEET_DIM,,,TRUE
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_DATA_SHEET_WO,,,TRUE
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_EQM_DIM,,,TRUE
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_EQM_HIERARCHY_DIM,,,TRUE
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_EQM_SUB_COMP_DIM,,,TRUE
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_ITEM_DIM,,,TRUE
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_JOB_PLAN_DIM,,,TRUE
+edb_mq_dia_gmdf_core,gmdf,gmdf_core,MDM_MAX_JOB_PLAN_DOC_URL_DIM,,,TRUE
